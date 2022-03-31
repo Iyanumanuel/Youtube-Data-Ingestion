@@ -2,7 +2,7 @@
 .ipynb_checkpoints
 
 # IPython
-main.py
-HoFchurchNG.json
-youtube_stats_analysis.ipynb
+*.py
+*.json
+*.ipynb
 __pycache__
