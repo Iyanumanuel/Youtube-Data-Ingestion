@@ -1,0 +1,9 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+main.py
+HoFchurchNG.json
+youtube_stats_analysis.ipynb
+__pycache__
+
