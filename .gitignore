@@ -3,7 +3,7 @@
 
 # IPython
 main.py
-*.json
-*.ipynb
+HoFchurchNG.json
+youtube_stats_analysis.ipynb
 __pycache__
 
