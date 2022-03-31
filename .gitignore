@@ -3,7 +3,7 @@
 
 # IPython
 main.py
-.json
-.ipynb
+*.json
+*.ipynb
 __pycache__
 
