@@ -1,6 +1,3 @@
-# Jupyter Notebook
-.ipynb_checkpoints
-
 # IPython
 *.py
 *.json
